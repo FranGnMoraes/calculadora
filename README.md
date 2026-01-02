@@ -2,6 +2,7 @@
 
 Projeto desenvolvido durante o curso de React da Rocketseat, com o objetivo de praticar os principais conceitos da biblioteca por meio da construção de uma calculadora funcional.
 
+
 🚀 Tecnologias
 
 React 18
@@ -10,17 +11,19 @@ JavaScript
 
 Tailwind CSS
 
+
 ✨ Funcionalidades
 
-Operações básicas (soma, subtração, multiplicação e divisão)
+- Operações básicas (soma, subtração, multiplicação e divisão)
 
-Suporte a números decimais
+- Suporte a números decimais
 
-Limpar operação (C) e apagar último caractere (CE)
+- Limpar operação (C) e apagar último caractere (CE)
 
-Exibição da operação e do resultado em tempo real
+- Exibição da operação e do resultado em tempo real
 
-Histórico de operações com persistência no LocalStorage
+- Histórico de operações com persistência no LocalStorage
+
 
 📚 Conceitos aplicados
 
@@ -36,9 +39,11 @@ Hooks customizados
 
 Renderização condicional e de listas
 
+
 ▶️ Como executar
 
-Abra o arquivo index.html em um navegador moderno.
+Abra o arquivo 4-calculadora.html em um navegador moderno.
+
 
 🎯 Objetivo
 
