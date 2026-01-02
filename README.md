@@ -42,7 +42,7 @@ Renderização condicional e de listas
 
 ▶️ Como executar
 
-Abra o arquivo 4-calculadora.html em um navegador moderno.
+Abra o arquivo index.html em um navegador moderno.
 
 
 🎯 Objetivo
